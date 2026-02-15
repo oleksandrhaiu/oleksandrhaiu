@@ -8,12 +8,13 @@ Focused on building scalable web applications and **deepening my skills** in the
 
 ### 💻 My Tech Stack
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind+CSS&logoColor=06B6D4)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind+CSS&logoColor=06B6D4)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
